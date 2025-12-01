@@ -1,0 +1,5 @@
+{
+  "name": "AI Video To Tutorial",
+  "description": "Convert video transcripts into professional step-by-step tutorials using AI. customizable prompts, model selection, and PDF export.",
+  "requestFramePermissions": []
+}
